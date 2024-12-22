@@ -1,0 +1,8 @@
+# 请在这里填写你的 助愿账号
+aid_cookie: ""
+# 请在下面填写你的许愿 cookie
+wish_cookies:
+  - "" # 第 1 个账号的 cookie
+  - "" # 第 2 个账号的 cookie
+  - "" # 第 3 个账号的 cookie
+  # - ...
